@@ -1,0 +1,7 @@
+C:\Users\jonas.mendes\Desktop\Prova\CashMachine\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\jonas.mendes\Desktop\Prova\CashMachine\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\jonas.mendes\Desktop\Prova\CashMachine\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\jonas.mendes\Desktop\Prova\CashMachine\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\jonas.mendes\Desktop\Prova\CashMachine\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\jonas.mendes\Desktop\Prova\CashMachine\UnitTest\bin\Debug\CashMachine.exe
+C:\Users\jonas.mendes\Desktop\Prova\CashMachine\UnitTest\bin\Debug\CashMachine.pdb

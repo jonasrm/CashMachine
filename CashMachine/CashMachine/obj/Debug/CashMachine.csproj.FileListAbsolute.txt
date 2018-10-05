@@ -1,0 +1,6 @@
+C:\Users\jonas.mendes\Desktop\Prova\CashMachine\CashMachine\bin\Debug\CashMachine.exe.config
+C:\Users\jonas.mendes\Desktop\Prova\CashMachine\CashMachine\obj\Debug\CashMachine.csprojResolveAssemblyReference.cache
+C:\Users\jonas.mendes\Desktop\Prova\CashMachine\CashMachine\bin\Debug\CashMachine.exe
+C:\Users\jonas.mendes\Desktop\Prova\CashMachine\CashMachine\bin\Debug\CashMachine.pdb
+C:\Users\jonas.mendes\Desktop\Prova\CashMachine\CashMachine\obj\Debug\CashMachine.exe
+C:\Users\jonas.mendes\Desktop\Prova\CashMachine\CashMachine\obj\Debug\CashMachine.pdb
